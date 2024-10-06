@@ -1,4 +1,4 @@
-# TEAM GLT - Geoscience Hackathon 24
+# TEAM GLT4 - Geoscience Hackathon 24
 
 **Members:** Zulkuf Azizoglu, Cinar Turhan, Fehmi Ozbayrak  
 **Project Based On:** [Segment Every Grain](https://github.com/zsylvester/segmenteverygrain) (Dr. Zoltán Sylvester)
