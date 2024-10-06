@@ -13,14 +13,14 @@ This project aims to provide the end user with a workflow that takes an image of
 
 The project directory contains the following files and directories:
 
-- **checkpoints/**: Contains model checkpoints.
+- **checkpoints/**: Contains model checkpoints. (Not included in the repo: User must download it individually since the size is too large. Instructions are given in the workflow)
 - **coconino.csv**: Resulting data from the analysis of the `coconino.jpg` image.
 - **coconino.jpg**: Original image of the grain collection used for analysis.
 - **cropped.jpg**: A demo image for fastly testing the segmentation workflow.
 - **latex**: Associated LaTeX files
 - **output_images/**: Directory where output images from the analysis are saved.
 - **README.md**: This file, providing an overview of the project.
-- **sam_vit_h_4b8939.pth**: Fine-tuned weights for the model.
+- **sam_vit_h_4b8939.pth**: Fine-tuned weights for the model. (Not included in the repo: User must download it individually since the size is too large. Instructions are given in the workflow)
 - **Team_GLT4_Final.pptx**: The Project Presentation
 - **workflow.ipynb**: The main workflow implemented in a Jupyter notebook.
 
